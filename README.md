@@ -10,3 +10,5 @@ Things to do this week:
 
 --Find the range of variables that make them physically viable
 
+--The model free parameters have to be english letters. Greek characters are prohibited
+
